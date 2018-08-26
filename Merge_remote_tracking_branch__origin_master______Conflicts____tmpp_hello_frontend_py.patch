@@ -1,0 +1,16 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision a418dec7594862ad5c871ac2d36bf82607677803)
++++ README.md	(revision )
+@@ -14,3 +14,7 @@
+ 不知道还有什么情况没有遇到
+ 5
+ 这次测试部分add+commit+stash+fetch+push组合
++
++6
++测试一下这个组合
++部分add+commit+stash+fetch+push。hello_frontend
+\ No newline at end of file
