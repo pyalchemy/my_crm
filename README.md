@@ -12,3 +12,5 @@
 
 4
 不知道还有什么情况没有遇到
+5
+这次测试部分add+commit+stash+fetch+push组合
