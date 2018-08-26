@@ -2,3 +2,4 @@
 __author__ = 'pyalchemy'
 print("hello world")
 print("hello Python")
+print("hello world, too")
