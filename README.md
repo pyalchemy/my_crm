@@ -14,3 +14,11 @@
 不知道还有什么情况没有遇到
 5
 这次测试部分add+commit+stash+fetch+push组合
+
+6
+测试一下这个组合
+部分add+commit+stash+fetch+push。hello_frontend
+
+6
+测试一下这个组合
+部分add+commit+stash+fetch+push。hello_frontend
