@@ -18,3 +18,5 @@
 6
 测试一下这个组合
 部分add+commit+stash+fetch+push。hello_frontend
+7
+ok goodbye
